@@ -22,8 +22,7 @@ async def start_message(c,m):
             [[
                 InlineKeyboardButton('💝 ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ', url='https://t.me/+RZ2BD0-Aou1lYWNl')
             ],[
-                InlineKeyboardButton("❣️ ᴅᴇᴠᴇʟᴏᴘᴇʀ", url='https://t.me/Assets1
-215'),
+                InlineKeyboardButton("❣️ ᴅᴇᴠᴇʟᴏᴘᴇʀ", url='https://t.me/Assets215'),
                 InlineKeyboardButton("🤖 ᴜᴘᴅᴀᴛᴇ", url='https://t.me/Kdrama_Talkies_News_Updates')
             ]]
         )
